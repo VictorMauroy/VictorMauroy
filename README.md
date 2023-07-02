@@ -1,4 +1,11 @@
-### Hi there 👋
+<h1 align="center">Hi there👋 Nice to meet you, I'm Victor Mauroy 😉</h1>
+<h3 align="center"><b>Back-end developper (C# / .Net / Unity)</b></h3>
+
+Hey🙂 I'm a Junior developper from Amiens/Lille in France. <br>
+I'm mainly doing **Back-end Web Development** and **Unity Engine** Development. <br>
+Currently doing a C# and .NET training to enhance my skills and also looking for a full-time job! 
+
+![Unity](https://img.shields.io/badge/-Unity-black?style=for-the-badge&logo=unity&logoColor=white)
 
 <!--
 **VictorMauroy/VictorMauroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

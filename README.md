@@ -18,11 +18,14 @@ Currently doing a C# and .NET training to enhance my skills and also looking for
 Experienced : ![CSHARP](https://img.shields.io/badge/C_Sharp-168214.svg?style=flat&logo=csharp&logoColor=white) 
 (5 years, mainly as game dev)
 
-<br>
-Can work with : 
+
+Can work with 
 ![Javascript](https://img.shields.io/badge/javascript-168214.svg?style=flat&logo=javascript&logoColor=white) 
-, Python, TypeScript, PHP, HTML5, CSS3
-<br>
+![Python](https://img.shields.io/badge/python-3776AB.svg?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=flat&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=flat&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=css3&logoColor=white)
 
 ### Back-end Development
 ![NestJS](https://img.shields.io/badge/nestjs-23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)

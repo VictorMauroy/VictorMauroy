@@ -17,10 +17,13 @@ Currently doing a C# and .NET training to enhance my skills and also looking for
 ### Languages 
 Experienced : C# (Working with it since 2018)
 <br>
-Can work with : Javascript, Python, PHP, HTML5, CSS3
+Can work with : Javascript, Python, TypeScript, PHP, HTML5, CSS3
 <br>
 
 ### Back-end Development
+NestJS
+<br>
+ASP.NET
 
 ### Game Development
 ![Unity](https://img.shields.io/badge/-Unity-black?style=square&logo=unity&logoColor=white)

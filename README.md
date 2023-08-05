@@ -53,17 +53,26 @@ Can work with
 ### Interests & Coming Soon
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-<!--
-**VictorMauroy/VictorMauroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Game Dev projects
+<details>
+<summary>Show more</summary>
 
-Here are some ideas to get you started:
+### Cher Journal
+Description: Cher journal is a narrative game where you follow the point of view and make choices for two teens who write, in their diary, their everyday life.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is a narrative game around the themes of the teenages years and school bullying.
+
+[**Presentation page**](https://mauroyvictor.wixsite.com/website/cher-journal)
+
+**Pictures:**
+<details>
+<summary>Show</summary>
+<img src="resources/CherJournalWilliam.png" width="320" height="200" alt="William Diary" />
+<img src="resources/CherJournalAudrey.png" width="320" height="200" alt="Audrey Diary" />
+<img src="resources/TurnPagesGIF.gif" width="320" height="200" alt="Game View" />
+<img src="resources/CherJournal_Eyes.gif" width="320" height="200" alt="Important Choice" />
+</details>
+
+
+
+</details>

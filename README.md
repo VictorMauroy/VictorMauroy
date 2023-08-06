@@ -53,11 +53,12 @@ Can work with
 ### Interests & Coming Soon
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-## Game Dev projects
+## :video_game: Game Dev projects :video_game:
+:mag_right: :point_down: :point_down: :point_down: :point_down: :point_down: :point_down: :point_down: :mag:
 <details>
 <summary>Show more</summary>
 
-### On-Going project
+### :european_castle: On-Going project :construction:
 **Description:** 
 Move through the air with ease and throw, tumble or crush your enemies to progress into this 3D platformer game.
 
@@ -76,7 +77,7 @@ Move through the air with ease and throw, tumble or crush your enemies to progre
 <img src="resources/TheHardestDungeon/hardestDungeon_jumpOnEnemies.gif" width="320" height="200" alt="Dungeon fights" />
 </details>
 
-### Cher Journal
+### :book: Cher Journal :orange_book:
 **Description:** Cher journal is a narrative game where you follow the point of view and make choices for two teens who write, in their diary, their everyday life.
 
 This is a narrative game around the themes of the teenages years and school bullying.

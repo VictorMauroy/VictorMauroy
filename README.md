@@ -57,20 +57,33 @@ Can work with
 <details>
 <summary>Show more</summary>
 
+### On-Going project
+**Description:** 
+
+**Links:**
+
+**Pictures**
+<details>
+<summary>Show</summary>
+
+</details>
+
 ### Cher Journal
-Description: Cher journal is a narrative game where you follow the point of view and make choices for two teens who write, in their diary, their everyday life.
+**Description:** Cher journal is a narrative game where you follow the point of view and make choices for two teens who write, in their diary, their everyday life.
 
 This is a narrative game around the themes of the teenages years and school bullying.
 
-[**Presentation page**](https://mauroyvictor.wixsite.com/website/cher-journal)
+**Links:** 
+- [**Presentation page**](https://mauroyvictor.wixsite.com/website/cher-journal) 
+- [**Trailer**](https://www.youtube.com/watch?v=xudUMBcEUQ4)
 
 **Pictures:**
 <details>
 <summary>Show</summary>
-<img src="resources/CherJournalWilliam.png" width="320" height="200" alt="William Diary" />
-<img src="resources/CherJournalAudrey.png" width="320" height="200" alt="Audrey Diary" />
-<img src="resources/TurnPagesGIF.gif" width="320" height="200" alt="Game View" />
-<img src="resources/CherJournal_Eyes.gif" width="320" height="200" alt="Important Choice" />
+<img src="resources/CherJournal/CherJournalWilliam.png" width="320" height="200" alt="William Diary" />
+<img src="resources/CherJournal/CherJournalAudrey.png" width="320" height="200" alt="Audrey Diary" />
+<img src="resources/CherJournal/TurnPagesGIF.gif" width="320" height="200" alt="Game View" />
+<img src="resources/CherJournal/CherJournal_Eyes.gif" width="320" height="200" alt="Important Choice" />
 </details>
 
 

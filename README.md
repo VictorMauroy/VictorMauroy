@@ -70,7 +70,7 @@ Move through the air with ease and throw, tumble or crush your enemies to progre
 
 **Pictures**
 <details>
-<summary>Show</summary>
+<summary>:mag_right: Show</summary>
 <img src="resources/TheHardestDungeon/MainCharProjectionMode.png" width="320" height="200" alt="Dungeon power" />
 <img src="resources/TheHardestDungeon/hardestDungeon_huntsystem.gif" width="320" height="200" alt="Dungeon hunt system" />
 <img src="resources/TheHardestDungeon/HardestDungeon_Projection.gif" width="320" height="200" alt="Dungeon enemy control" />
@@ -89,13 +89,27 @@ This is a narrative game around the themes of the teenages years and school bull
 
 **Pictures:**
 <details>
-<summary>Show</summary>
+<summary>:mag_right: Show</summary>
 <img src="resources/CherJournal/CherJournalWilliam.png" width="320" height="200" alt="William Diary" />
 <img src="resources/CherJournal/CherJournalAudrey.png" width="320" height="200" alt="Audrey Diary" />
 <img src="resources/CherJournal/TurnPagesGIF.gif" width="320" height="200" alt="Game View" />
 <img src="resources/CherJournal/CherJournal_Eyes.gif" width="320" height="200" alt="Important Choice" />
 </details>
 
+### :office: E-artsup Lille School Game :art:
+**Description:**
+Made as a request by our school, that game objective was to allow school's candidates to better understand the atmosphere and the lessons of the games cursus. It also give a lot of advices to start creating games and quickly adapt to the video game universe! There is also a few mini-games.
 
+**Links:** 
+- [**Presentation and download**](https://mauroyvictor.wixsite.com/website/l-%C3%A9cole-e-artsup-lille)
+
+**Pictures:**
+<details>
+<summary>:mag_right: Show</summary>
+<img src="resources/ProjetEcoleEartGif.gif" width="500" height="300" alt="E-Art game gif" />
+</details>
 
 </details>
+
+### **Want to see more projects ?** :video_game: :
+-> Check my game dev website : https://mauroyvictor.wixsite.com/website/mes-jeux

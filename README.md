@@ -59,13 +59,21 @@ Can work with
 
 ### On-Going project
 **Description:** 
+Move through the air with ease and throw, tumble or crush your enemies to progress into this 3D platformer game.
+
+*Note: This is an on-going project, there currently isn't any download links but you can check the github page in the links section bellow.*
 
 **Links:**
+- [**Presentation**](https://mauroyvictor.wixsite.com/website/currentproject)
+- [**Github repository**](https://github.com/VictorMauroy/The-Hardest-Dungeon)
 
 **Pictures**
 <details>
 <summary>Show</summary>
-
+<img src="resources/TheHardestDungeon/MainCharProjectionMode.png" width="320" height="200" alt="Dungeon power" />
+<img src="resources/TheHardestDungeon/hardestDungeon_huntsystem.gif" width="320" height="200" alt="Dungeon hunt system" />
+<img src="resources/TheHardestDungeon/HardestDungeon_Projection.gif" width="320" height="200" alt="Dungeon enemy control" />
+<img src="resources/TheHardestDungeon/hardestDungeon_jumpOnEnemies.gif" width="320" height="200" alt="Dungeon fights" />
 </details>
 
 ### Cher Journal
@@ -74,8 +82,9 @@ Can work with
 This is a narrative game around the themes of the teenages years and school bullying.
 
 **Links:** 
-- [**Presentation page**](https://mauroyvictor.wixsite.com/website/cher-journal) 
+- [**Presentation**](https://mauroyvictor.wixsite.com/website/cher-journal) 
 - [**Trailer**](https://www.youtube.com/watch?v=xudUMBcEUQ4)
+- [**Download**](https://roman-grzegorzewski.itch.io/cher-journal)
 
 **Pictures:**
 <details>

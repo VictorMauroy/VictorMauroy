@@ -54,9 +54,6 @@ Can work with
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ## :video_game: Game Dev projects :video_game:
-:mag_right: :point_down: :point_down: :point_down: :point_down: :point_down: :point_down: :point_down: :mag:
-<details>
-<summary>Show more</summary>
 
 ### :european_castle: On-Going project :construction:
 **Description:** 
@@ -111,5 +108,3 @@ Made as a request by our school, that game objective was to allow school's candi
 
 ### **Want to see more projects ?** :video_game: :
 -> Check my game dev website : https://mauroyvictor.wixsite.com/website/mes-jeux
-
-</details>

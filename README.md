@@ -70,7 +70,7 @@ Move through the air with ease and throw, tumble or crush your enemies to progre
 
 **Pictures**
 <details>
-<summary>:mag_right: Show</summary>
+<summary>:mag_right: Show :art:</summary>
 <img src="resources/TheHardestDungeon/MainCharProjectionMode.png" width="320" height="200" alt="Dungeon power" />
 <img src="resources/TheHardestDungeon/hardestDungeon_huntsystem.gif" width="320" height="200" alt="Dungeon hunt system" />
 <img src="resources/TheHardestDungeon/HardestDungeon_Projection.gif" width="320" height="200" alt="Dungeon enemy control" />
@@ -89,7 +89,7 @@ This is a narrative game around the themes of the teenages years and school bull
 
 **Pictures:**
 <details>
-<summary>:mag_right: Show</summary>
+<summary>:mag_right: Show :art:</summary>
 <img src="resources/CherJournal/CherJournalWilliam.png" width="320" height="200" alt="William Diary" />
 <img src="resources/CherJournal/CherJournalAudrey.png" width="320" height="200" alt="Audrey Diary" />
 <img src="resources/CherJournal/TurnPagesGIF.gif" width="320" height="200" alt="Game View" />
@@ -105,11 +105,11 @@ Made as a request by our school, that game objective was to allow school's candi
 
 **Pictures:**
 <details>
-<summary>:mag_right: Show</summary>
+<summary>:mag_right: Show :art:</summary>
 <img src="resources/ProjetEcoleEartGif.gif" width="500" height="300" alt="E-Art game gif" />
-</details>
-
 </details>
 
 ### **Want to see more projects ?** :video_game: :
 -> Check my game dev website : https://mauroyvictor.wixsite.com/website/mes-jeux
+
+</details>

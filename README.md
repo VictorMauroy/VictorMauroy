@@ -16,7 +16,7 @@ Currently doing a C# and .NET training to enhance my skills and also looking for
 
 ### Languages 
 Experienced : ![CSHARP](https://img.shields.io/badge/C_Sharp-168214.svg?style=flat&logo=csharp&logoColor=white) 
-(5 years, mainly as game dev)
+(5 years of practice, mainly as game dev)
 
 
 Can work with 

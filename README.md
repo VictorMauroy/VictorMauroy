@@ -16,8 +16,9 @@ Currently doing a C# and .NET training to enhance my skills and also looking for
 
 ### Languages 
 Experienced : ![CSHARP](https://img.shields.io/badge/C_Sharp-168214.svg?style=flat&logo=csharp&logoColor=white) 
-(5 years of practice, mainly as game dev)
+(5 years of practice, game dev + backend)
 
+[![Codewars Badge](https://www.codewars.com/users/VictorMauroy/badges/large)](https://www.codewars.com/users/VictorMauroy)
 
 Can work with 
 ![Javascript](https://img.shields.io/badge/javascript-168214.svg?style=flat&logo=javascript&logoColor=white) 
@@ -38,6 +39,7 @@ Can work with
 ### Databases
 ![My SQL](https://img.shields.io/badge/-mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ### Design tools
 ![Adobe XD](https://img.shields.io/badge/-Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
@@ -49,9 +51,17 @@ Can work with
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+### Cloud, Deployement & Other tools
+![Microsoft Azure](https://img.shields.io/badge/-Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### Interests & Coming Soon
-![Microsoft Azure](https://img.shields.io/badge/-Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
 
 ## :video_game: Game Dev projects :video_game:
 

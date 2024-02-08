@@ -4,7 +4,8 @@
 ## About me 📰🔍
 Hey🙂 I'm a Junior developper from Amiens/Lille in France. <br>
 I'm mainly doing **Web Back-end** and **Unity Engine** Development. <br>
-Currently doing a C# and .NET training to enhance my skills and also looking for a full-time job! 
+I recently made a C# and .NET training to enhance my skills. 
+I am now looking for a full-time job! 
 
 ## **Contact me 📬**
 <a target="_blank" href="https://www.linkedin.com/in/victor-mauroy-01803a1a5/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>

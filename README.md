@@ -2,10 +2,9 @@
 <h3 align="center"><b>Back-end developper (C# / .Net / Unity)</b></h3>
 
 ## About me 📰🔍
-Hey🙂 I'm a Junior developper from Amiens/Lille in France. <br>
+Hey🙂 I'm a Junior Developper from Amiens/Lille in France. <br>
 I'm mainly doing **Web Back-end** and **Unity Engine** Development. <br>
-I recently made a C# and .NET training to enhance my skills. 
-I am now looking for a full-time job! 
+I recently made a C# and .NET training of 5 months to enhance my skills and I am now looking for a full-time job!
 
 ## **Contact me 📬**
 <a target="_blank" href="https://www.linkedin.com/in/victor-mauroy-01803a1a5/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -17,21 +16,24 @@ I am now looking for a full-time job!
 
 ### Languages 
 Experienced : ![CSHARP](https://img.shields.io/badge/C_Sharp-168214.svg?style=flat&logo=csharp&logoColor=white) 
-(5 years of practice, game dev + backend)
+(5 years of practice, game dev + web & app)
 
 [![Codewars Badge](https://www.codewars.com/users/VictorMauroy/badges/large)](https://www.codewars.com/users/VictorMauroy)
 
-Can work with 
-![Javascript](https://img.shields.io/badge/javascript-168214.svg?style=flat&logo=javascript&logoColor=white) 
+Can also work with 
 ![Python](https://img.shields.io/badge/python-3776AB.svg?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=flat&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=flat&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=css3&logoColor=white)
 
 ### Back-end Development
 ![NestJS](https://img.shields.io/badge/nestjs-23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![ASP .NET](https://img.shields.io/badge/ASP_.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### Front-end
+![Javascript](https://img.shields.io/badge/javascript-168214.svg?style=flat&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=css3&logoColor=white)
 
 ### Game Development
 ![Unity](https://img.shields.io/badge/-Unity-black?style=for-the-badge&logo=unity&logoColor=white)
@@ -62,7 +64,6 @@ Can work with
 *For the above technologies, I still need more practice.*
 
 ### Interests & Coming Soon
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
 

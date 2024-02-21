@@ -30,10 +30,10 @@ Can also work with
 ![ASP .NET](https://img.shields.io/badge/ASP_.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Front-end
-![Javascript](https://img.shields.io/badge/javascript-168214.svg?style=flat&logo=javascript&logoColor=white)
+![Javascript](https://img.shields.io/badge/javascript-168214.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Game Development
 ![Unity](https://img.shields.io/badge/-Unity-black?style=for-the-badge&logo=unity&logoColor=white)

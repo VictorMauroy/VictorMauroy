@@ -10,7 +10,7 @@ I recently made a C# and .NET training of 5 months to enhance my skills and I am
 <a target="_blank" href="https://www.linkedin.com/in/victor-mauroy-01803a1a5/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:mauroy.victor@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/VictorMauroy/VictorMauroy/blob/main/CV_VictorMauroy.pdf"><img src="https://img.shields.io/badge/CV%20-%20Resume-ea580f?style=for-the-badge" /></a>
-<a href="https://mauroyvictor.wixsite.com/website"><img src="https://img.shields.io/badge/Game_Dev_Portfolio-black?style=for-the-badge&logo=Google-chrome&logoColor=white)" /></a>
+<a href="https://victormauroy.github.io/"><img src="https://img.shields.io/badge/Dev_Portfolio-black?style=for-the-badge&logo=Google-chrome&logoColor=white)" /></a>
 
 ## Skills ⚔💻
 
